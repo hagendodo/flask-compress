@@ -2,3 +2,4 @@ Flask
 Flask-Compress
 Flask-UUID
 pydub
+gunicorn
